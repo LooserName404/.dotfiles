@@ -1,1 +1,10 @@
-/home/thyago/.config/alacritty/alacritty.yml
+shell:
+  program: /bin/zsh
+
+window:
+  dimensions:
+    columns: 96
+    lines: 24
+  padding:
+    x: 12
+    y: 8
